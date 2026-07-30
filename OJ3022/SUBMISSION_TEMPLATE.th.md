@@ -157,7 +157,6 @@ Actual output:
 ```text
 77.00
 ```
-
 Result:
 
 ```text
