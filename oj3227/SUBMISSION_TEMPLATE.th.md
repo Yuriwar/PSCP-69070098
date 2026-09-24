@@ -219,7 +219,7 @@ Expected output:
 Actual output:
 
 ```text
-
+5 of diamonds
 ```
 
 Result:
