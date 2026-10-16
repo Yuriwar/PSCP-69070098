@@ -220,13 +220,13 @@ Input:
 Expected output:
 
 ```text
-
+*(ว่างเปล่า)*
 ```
 
 Actual output:
 
 ```text
-
+*(ว่างเปล่า)*
 ```
 
 Result:
